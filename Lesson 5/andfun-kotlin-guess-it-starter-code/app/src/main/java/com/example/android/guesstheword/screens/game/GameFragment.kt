@@ -60,9 +60,7 @@ class GameFragment : Fragment() {
             binding.wordText.text = newWord
         })
 
-        viewModel.score.observe(this, Observer { newScore ->
-            binding.scoreText.text = newScore.toString()
-        })
+        binding.setLifecycleOwner(this)
 
         viewModel.currentTime.observe(this, Observer { newTime ->
             binding.timerText.text = DateUtils.formatElapsedTime(newTime)
