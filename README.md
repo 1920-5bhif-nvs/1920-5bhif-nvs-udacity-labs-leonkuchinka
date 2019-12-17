@@ -1,7 +1,7 @@
 # Developing Android Apps With Kotlin - Leon Kuchinka
 
 
-#### Bis jetzt erledigt:
+#### Alle erledigt!
 
 - [x] Build your First App
 - [x] Layouts
@@ -12,4 +12,4 @@
 - [x] RecyclerView
 - [x] Connect to the Internet
 - [x] Behind the Scenes
-- [ ] Designing for Everyone
+- [x] Designing for Everyone
