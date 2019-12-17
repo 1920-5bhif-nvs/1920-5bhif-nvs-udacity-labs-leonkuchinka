@@ -11,5 +11,5 @@
 - [x] App Architecture (Persistence)
 - [x] RecyclerView
 - [x] Connect to the Internet
-- [ ] Behind the Scenes
+- [x] Behind the Scenes
 - [ ] Designing for Everyone
