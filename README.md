@@ -1,7 +1,15 @@
 # Developing Android Apps With Kotlin - Leon Kuchinka
 
 
+#### Bis jetzt erledigt:
 
-Absolviert habe ich in diesem Git-Repository Lesson 6-8. Lesson 1-5 habe ich bereits vor diesem Schuljahr gemacht. (Das Foto ist zwar kein guter Beweis aber immerhin)
-
-![](./images/courses.PNG)
+- [x] Build your First App
+- [x] Layouts
+- [x] App Navigation
+- [x] Activity & Fragment Lifecycle
+- [x] App Architecture (UI Layer)
+- [x] App Architecture (Persistence)
+- [x] RecyclerView
+- [x] Connect to the Internet
+- [ ] Behind the Scenes
+- [ ] Designing for Everyone
