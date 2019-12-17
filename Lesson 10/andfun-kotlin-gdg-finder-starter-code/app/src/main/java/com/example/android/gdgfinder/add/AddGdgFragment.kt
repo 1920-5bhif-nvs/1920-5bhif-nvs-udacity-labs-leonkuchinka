@@ -38,6 +38,9 @@ class AddGdgFragment : Fragment() {
             }
         })
 
+        binding.button.contentDescription=getString(R.string.submitted)
+        binding.button.text=getString(R.string.done)
+
         setHasOptionsMenu(true)
         return binding.root
     }
